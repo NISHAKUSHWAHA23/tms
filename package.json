@@ -1,0 +1,14 @@
+{
+  "name": "tms",
+  "version": "1.0.0",
+  "description": "* MONGO_URI=your_mongo_uri * JWT_SECRET=secret or anything random * CLIENT_URL=http://localhost:3000 or any localhost port that you are using * PORT=8000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.7"
+  }
+}
